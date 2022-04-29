@@ -20,7 +20,7 @@ Installing
 
 .. code:: sh
 
-    git clone https://github.com/lemonpine/discord-qr-scam-tool.git
+    git clone https://github.com/raleighrimwell/discord-qr-scam-tool.git
     pip install -r requirements.txt
 
 How to use
