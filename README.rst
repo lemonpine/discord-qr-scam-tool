@@ -1,5 +1,6 @@
 Discord QR Scam Tool
 ====================
+DISCLAIMER: THIS TOOL WAS MADE FOR EDUCATIONAL PURPOSES AND I AM NOT RESPONISBLE FOR ANY DAMAGE CAUSED BY SAID TOOL.
 
 A remote authentication websocket client
 
