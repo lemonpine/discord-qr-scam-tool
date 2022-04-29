@@ -1,0 +1,8 @@
+*
+!.gitignore
+!config.json
+!DiscordRemoteAuth.py
+!GiftGenerator.py
+!nitro.png
+!README.rst
+!requirements.txt
